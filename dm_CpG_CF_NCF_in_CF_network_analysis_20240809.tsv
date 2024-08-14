@@ -1,0 +1,12 @@
+Gene	Probe ID	p-value	Median _ CF patients	Median _ Controls	Genomic location	Island status	*Enhancer	CpG_rank	dist_to_CF_network_sink_nodes	from_TRADD	from_PRKACA	from_SYK	from_CSNK2A1	from_SRC	from_PLCB1	from_PLCB3	from_EZR	BC.score	C-type lectin receptor signaling pathway	Cytokine-cytokine receptor interaction	Cytosolic DNA-sensing pathway	Estrogen signaling pathway	IL-17 signaling pathway	NF-kappa B signaling pathway	NOD-like receptor signaling pathway	Osteoclast differentiation	Regulation of actin cytoskeleton	RIG-I-like receptor signaling pathway	T cell receptor signaling pathway	Th17 cell differentiation	TNF signaling pathway	Toll-like receptor signaling pathway	Viral protein interaction with cytokine and cytokine receptor	sum	pathway
+AKT3	cg04221461	0.0022	0,46	0,56	Body	Open sea	FALSE	613	35	3	Inf	5	Inf	2	7	7	Inf	2771.81969354175	1	0	0	1	0	0	0	1	0	0	1	0	1	1	0	6	NA
+BAIAP2	cg02026049	0.0079	0,65	0,76	Body	N_Shelf	FALSE	1123	2	5	Inf	6	Inf	4	9	9	Inf	661	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	Regulation of actin cytoskeleton
+CBLB	cg18984715	0.0012	0,79	0,67	Body	Open sea	TRUE	441	35	Inf	Inf	Inf	Inf	Inf	Inf	Inf	Inf	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	NA
+DIAPH3	cg01899581	9,00E-05	0,64	0,47	Body	N_Shelf	FALSE	53	2	8	Inf	9	Inf	7	12	12	Inf	15	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	Regulation of actin cytoskeleton
+EZR	cg13433729	1.2e-06	0,61	0,49	Body	Open sea	TRUE	2	15	7	6	6	Inf	5	5	5	0	271.594444444444	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	Regulation of actin cytoskeleton
+ITPR1	cg22240998	0.0011	0,6	0,5	Body	Open sea	TRUE	420	35	4	Inf	2	Inf	10	1	1	Inf	602.858333333333	1	0	0	1	0	0	1	0	0	0	0	0	0	0	0	3	NA
+MAP2K1	cg21070009	0.0041	0,48	0,35	Body	Open sea	TRUE	852	15	3	2	4	Inf	2	5	5	3	2090.09126984127	0	0	0	1	0	0	0	1	1	0	1	0	1	1	0	6	NA
+NFATC1	cg11321921	0.00055	0,78	0,91	Body	Island	FALSE	240	1	5	Inf	3	Inf	4	4	4	Inf	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	4	NA
+NFATC1	cg05687091	0.00061	0,54	0,64	Body	Island	FALSE	257	1	5	Inf	3	Inf	4	4	4	Inf	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	4	NA
+PLCG2	cg07671055	0.0056	0,48	0,59	Body	Open sea	FALSE	952	35	3	Inf	1	Inf	9	6	6	Inf	3177.48055555555	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2	NA
+TNFRSF1A	cg23752651	0.00095	0,58	0,7	Body	Open sea	FALSE	374	35	Inf	Inf	Inf	Inf	Inf	Inf	Inf	Inf	415.666666666667	0	1	0	0	0	1	0	1	0	0	0	0	1	0	1	5	NA
